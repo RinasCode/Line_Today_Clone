@@ -1,0 +1,44 @@
+[
+    {
+      "username": "rina",
+      "email": "rina@mail.com",
+      "password": "12345",
+      "role": "Admin",
+      "phoneNumber": "0813-1918-9089",
+      "address": "Bintaro"
+    },
+    {
+      "username": "janeSmith",
+      "email": "jane.smith@example.com",
+      "password": "12345",
+      "role": "Staff",
+      "phoneNumber": "234-567-8901",
+      "address": "456 Elm St, Springfield"
+    },
+    {
+      "username": "adminMike",
+      "email": "mike.admin@example.com",
+      "password": "12345",
+      "role": "Admin",
+      "phoneNumber": "345-678-9012",
+      "address": "789 Oak St, Springfield"
+    },
+    {
+      "username": "susanClark",
+      "email": "susan.clark@example.com",
+      "password": "12345",
+      "role": "Staff",
+      "phoneNumber": "456-789-0123",
+      "address": "101 Maple St, Springfield"
+    },
+    {
+      "username": "adminLucy",
+      "email": "lucy.admin@example.com",
+      "password": "12345",
+      "role": "Admin",
+      "phoneNumber": "567-890-1234",
+      "address": "202 Pine St, Springfield"
+    }
+  ]
+  
+  
