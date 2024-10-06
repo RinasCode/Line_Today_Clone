@@ -9,7 +9,7 @@ import Login from '../views/LoginPage';
 import ListCategory from '../views/CategoryList';
 import Toastify from 'toastify-js';
 
-const url = 'http://localhost:3000';
+const url = 'https://line-today-clone-backend-f5b25e220440.herokuapp.com/';
 
 const router = createBrowserRouter([
     {
