@@ -68,7 +68,7 @@ export default function LoginPage({ url }) {
         <div className="text-center lg:text-left text-white">
           <h1 className="text-5xl font-bold">Line Today</h1>
           <p className="py-6">
-            In today’s fast-paced world, staying updated with accurate and timely news is more crucial than ever. At [Your News Platform], we pride ourselves on being your go-to source for the latest and most reliable news. Our mission is to provide you with comprehensive coverage, insightful analysis, and unbiased reporting on the events that shape our world.
+            In today’s fast-paced world, staying updated with accurate and timely news is more crucial than ever. At line today clone, we pride ourselves on being your go-to source for the latest and most reliable news. Our mission is to provide you with comprehensive coverage, insightful analysis, and unbiased reporting on the events that shape our world.
           </p>
         </div>
         <div className="card bg-grey w-full max-w-sm shrink-0 shadow-2xl">
